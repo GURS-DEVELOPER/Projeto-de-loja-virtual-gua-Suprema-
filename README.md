@@ -11,6 +11,7 @@ Esse sistema é um experimento de uma loja virtual de garrafas d'água
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
  # PHP
+ # HTML
  # CSS
  # JavaScript
  
