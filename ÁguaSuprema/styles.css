@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgba(217, 231, 238, 0.719);
+}
+
+/* ----------------------------------- cabeça-da-pagina */
+.cabeca-web{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 50px;
+}
+
+.log{
+    background-color: rgb(150, 208, 241);
+    width: 100% ;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: sticky;
+    top: 0;
+}
+
+.log h1{
+    font-family: roboto;
+    color: rgba(0, 0, 0, 0.849);
+    font-weight: 300;
+    background-color: transparent;
+}
+
+/* ----------------------------------- corpo-da-pagina */
+.cabecalho-web div{
+    margin: 10px;
+  
+}
+
+.item{
+    display: flex;
+    align-items: center;
+}
+
+.item img{
+    border-radius: 30px;
+}
+
+
+
+.item .botao1{
+    display: flex;
+    justify-content: center; /* centraliza horizontal */
+    align-items: center;     /* centraliza vertical (se tiver altura) */
+    width: 100px;
+
+
+    height: 100px; 
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: 80vh;
+
+
+    border: 4px solid transparent;
+
+    background:
+    linear-gradient(rgb(255, 255, 255), rgb(226, 248, 255)) padding-box,
+    linear-gradient(45deg, rgb(121, 157, 235), rgb(159, 249, 255), rgb(197, 197, 255)) border-box;
+
+}
+
+
+/* ----------------------------------- final-da-pagina */
+
+.rodape-web{
+    text-align: center;
+}
