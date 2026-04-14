@@ -6,6 +6,10 @@
 
 Esse sistema é um experimento de uma loja virtual de garrafas d'água 
 
+# Quem são os clientes ?
+
+Todas as pessoas
+
 ## 🛠️ Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
